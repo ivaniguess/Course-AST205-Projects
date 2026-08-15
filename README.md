@@ -1,4 +1,4 @@
-# AST205 — Astronomical Data Analysis
+# AST205 — Computational Astronomy I Course 
 
 Projects developed for the AST205 course, focused on astronomical data reduction, photometry, and observational data analysis using Python.
 
